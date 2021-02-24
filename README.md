@@ -5,3 +5,5 @@ Great! We made a simple login functionality. Next, let's make an application tha
  
 
 For our page, we'll make it possible to sign in with GitHub (each service has their own APIs/methods for OAuth2 - GitHub is relatively straightforward).
+
+applicatiom.yml file has been omitted
